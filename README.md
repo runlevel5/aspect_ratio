@@ -42,7 +42,7 @@ var crop = aspect.crop(2048, 768, '4:3');
 // [512, 768, 1024, 768]
 ```
 
-![Cropp with fixed ratio](./image.png?w=960&h=720)
+Image: [Crop with fixed ratio](./image.png)
 
 ### resize(**integer** `x`, **integer** `y`, **integer** `maxX`, **integer** `maxY`)
 
